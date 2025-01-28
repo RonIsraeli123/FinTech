@@ -1,0 +1,10 @@
+1. create data with type cost 
+2. integrate with openai to understand the type for future costs
+    2.5 with
+        * cost price
+        * date
+        * past expenses
+        * name
+3. send the cost type to the user for validation
+4. summarize the expenses
+5. 
